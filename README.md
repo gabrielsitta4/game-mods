@@ -57,9 +57,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hollow Knight
 
 <p>
-<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-OnePunchHK-v2.5.0/cover.jpg" width="32%" alt="One Punch HK"></a>
+<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-OnePunchHK-v3.0.0/cover.jpg" width="32%" alt="One Punch HK"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-OnePunchHK-v2.5.0">One Punch HK 2.5.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-OnePunchHK-v3.0.0">One Punch HK 3.0.0</a></p>
 
 ### Cuphead
 
