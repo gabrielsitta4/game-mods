@@ -81,10 +81,10 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Nine Sols
 
 <p>
-<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-NineSolsPowerMod-v2.3.0/cover.jpg" width="32%" alt="Nine Sols Power Mod"></a>
+<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-NineSolsPowerMod-v3.0.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
 <a href="https://www.nexusmods.com/ninesols/mods/17"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-BepInExPack-v1.2/cover.jpg" width="32%" alt="BepInEx pack for Nine Sols"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-NineSolsPowerMod-v2.3.0">Nine Sols Power Mod 2.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-NineSolsPowerMod-v3.0.0">Give Me Everything - Nine Sols 3.0.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
 
 ### Crypt Custodian
 
