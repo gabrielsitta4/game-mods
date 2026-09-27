@@ -89,9 +89,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Crypt Custodian
 
 <p>
-<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-CustodianMenu-v1.1.1/cover.jpg" width="32%" alt="Custodian Menu"></a>
+<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-CustodianMenu-v2.0.0/cover.jpg" width="32%" alt="Custodian Menu"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-CustodianMenu-v1.1.1">Custodian Menu 1.1.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-CustodianMenu-v2.0.0">Custodian Menu 2.0.0</a></p>
 
 ### Dispatch
 
