@@ -96,9 +96,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Dispatch
 
 <p>
-<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-DispatchMenu-v1.3.5/cover.jpg" width="32%" alt="Dispatch Menu"></a>
+<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-DispatchMenu-v2.0.0/cover.jpg" width="32%" alt="Dispatch Menu"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-DispatchMenu-v1.3.5">Dispatch Menu 1.3.5</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-DispatchMenu-v2.0.0">Dispatch Menu 2.0.0</a></p>
 
 ### MOUSE: P.I. For Hire
 
