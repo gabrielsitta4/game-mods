@@ -33,12 +33,12 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Brotato
 
 <p>
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3787782867"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-GiveMeEverything-v1.3.0/cover.jpg" width="24%" alt="GiveMeEverything"></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3787782867"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-GiveMeEverything-v2.0.0/cover.jpg" width="24%" alt="GiveMeEverything"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3771061737"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-ShopWishlist-v1.0.0/cover.jpg" width="24%" alt="ShopWishlist"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3769887447"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-ModOptionsTabs-v1.0.1/cover.jpg" width="24%" alt="ModOptionsTabs"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3769878400"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-EnemiesEvolve-v1.0.0/cover.jpg" width="24%" alt="EnemiesEvolve"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-GiveMeEverything-v1.3.0">GiveMeEverything 1.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ShopWishlist-v1.0.0">ShopWishlist 1.0.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ModOptionsTabs-v1.0.1">ModOptionsTabs 1.0.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-EnemiesEvolve-v1.0.0">EnemiesEvolve 1.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-GiveMeEverything-v2.0.0">GiveMeEverything 2.0.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ShopWishlist-v1.0.0">ShopWishlist 1.0.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ModOptionsTabs-v1.0.1">ModOptionsTabs 1.0.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-EnemiesEvolve-v1.0.0">EnemiesEvolve 1.0.0</a></p>
 
 ### Hades
 
