@@ -50,9 +50,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hollow Knight: Silksong
 
 <p>
-<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-OnePunchSilksong-v4.0.0/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
+<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-OnePunchSilksong-v4.1.0/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-OnePunchSilksong-v4.0.0">Give Me Everything - Silksong 4.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-OnePunchSilksong-v4.1.0">Give Me Everything - Silksong 4.1.0</a></p>
 
 ### Hollow Knight
 
