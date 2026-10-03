@@ -103,9 +103,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### MOUSE: P.I. For Hire
 
 <p>
-<a href="https://www.nexusmods.com/mousepiforhire/mods/23"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/MOUSE-MouseTrainer-v3.0.0/cover.jpg" width="32%" alt="MOUSE Trainer"></a>
+<a href="https://www.nexusmods.com/mousepiforhire/mods/23"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/MOUSE-MouseTrainer-v3.1.0/cover.jpg" width="32%" alt="MOUSE Trainer"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/MOUSE-MouseTrainer-v3.0.0">MOUSE Trainer 3.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/MOUSE-MouseTrainer-v3.1.0">MOUSE Trainer 3.1.0</a></p>
 
 ### Crime Scene Cleaner
 
