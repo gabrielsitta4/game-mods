@@ -50,69 +50,69 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hollow Knight: Silksong
 
 <p>
-<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-OnePunchSilksong-v4.2.0/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
+<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-GiveMeEverything-v4.2.0/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-OnePunchSilksong-v4.2.0">Give Me Everything - Silksong 4.2.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-GiveMeEverything-v4.2.0">Give Me Everything - Silksong 4.2.0</a></p>
 
 ### Hollow Knight
 
 <p>
-<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-OnePunchHK-v3.1.0/cover.jpg" width="32%" alt="One Punch HK"></a>
+<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-GiveMeEverything-v3.1.0/cover.jpg" width="32%" alt="Give Me Everything - Hollow Knight"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-OnePunchHK-v3.1.0">One Punch HK 3.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-GiveMeEverything-v3.1.0">Give Me Everything - Hollow Knight 3.1.0</a></p>
 
 ### Cuphead
 
 <p>
-<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-CupheadDoubleAssist-v3.2.2/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
+<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-GiveMeEverything-v3.2.2/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/122"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-CupheadUltraWideBepInEx-v1.1.0/cover.jpg" width="32%" alt="Cuphead UltraWide"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/173"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-BepInExPack-v5.4.23.5/cover.jpg" width="32%" alt="BepInEx for Cuphead"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadDoubleAssist-v3.2.2">Give Me Everything - Cuphead 3.2.2</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-GiveMeEverything-v3.2.2">Give Me Everything - Cuphead 3.2.2</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
 
 ### Cult of the Lamb
 
 <p>
-<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-CultOfTheLambPowerMod-v2.1.0/cover.jpg" width="32%" alt="Cult Of The Lamb Power Mod"></a>
+<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v2.1.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
 <a href="https://www.nexusmods.com/cultofthelamb/mods/84"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1/cover.jpg" width="32%" alt="Cult of QoL PT-BR"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfTheLambPowerMod-v2.1.0">Cult Of The Lamb Power Mod 2.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v2.1.0">Give Me Everything - Cult of the Lamb 2.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
 
 ### Nine Sols
 
 <p>
-<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-NineSolsPowerMod-v3.1.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
+<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-GiveMeEverything-v3.1.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
 <a href="https://www.nexusmods.com/ninesols/mods/17"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-BepInExPack-v1.2/cover.jpg" width="32%" alt="BepInEx pack for Nine Sols"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-NineSolsPowerMod-v3.1.0">Give Me Everything - Nine Sols 3.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-GiveMeEverything-v3.1.0">Give Me Everything - Nine Sols 3.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
 
 ### Crypt Custodian
 
 <p>
-<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-CustodianMenu-v2.1.0/cover.jpg" width="32%" alt="Custodian Menu"></a>
+<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-GiveMeEverything-v2.1.0/cover.jpg" width="32%" alt="Give Me Everything - Crypt Custodian"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-CustodianMenu-v2.1.0">Custodian Menu 2.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-GiveMeEverything-v2.1.0">Give Me Everything - Crypt Custodian 2.1.0</a></p>
 
 ### Dispatch
 
 <p>
-<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-DispatchMenu-v2.0.0/cover.jpg" width="32%" alt="Dispatch Menu"></a>
+<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-GiveMeEverything-v2.0.0/cover.jpg" width="32%" alt="Give Me Everything - Dispatch"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-DispatchMenu-v2.0.0">Dispatch Menu 2.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-GiveMeEverything-v2.0.0">Give Me Everything - Dispatch 2.0.0</a></p>
 
 ### MOUSE: P.I. For Hire
 
 <p>
-<a href="https://www.nexusmods.com/mousepiforhire/mods/23"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/MOUSE-MouseTrainer-v3.1.0/cover.jpg" width="32%" alt="MOUSE Trainer"></a>
+<a href="https://www.nexusmods.com/mousepiforhire/mods/23"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/MOUSE-GiveMeEverything-v3.1.0/cover.jpg" width="32%" alt="Give Me Everything - MOUSE"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/MOUSE-MouseTrainer-v3.1.0">MOUSE Trainer 3.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/MOUSE-GiveMeEverything-v3.1.0">Give Me Everything - MOUSE 3.1.0</a></p>
 
 ### Crime Scene Cleaner
 
 <p>
-<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-UltraCleaningTools-v5.1.0/cover.jpg" width="32%" alt="Ultra Cleaning Tools"></a>
+<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-GiveMeEverything-v5.1.0/cover.jpg" width="32%" alt="Give Me Everything - Crime Scene Cleaner"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-UltraCleaningTools-v5.1.0">Ultra Cleaning Tools 5.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-GiveMeEverything-v5.1.0">Give Me Everything - Crime Scene Cleaner 5.1.0</a></p>
 
 ### Stray
 
