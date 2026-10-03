@@ -110,9 +110,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Crime Scene Cleaner
 
 <p>
-<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-UltraCleaningTools-v5.0.0/cover.jpg" width="32%" alt="Ultra Cleaning Tools"></a>
+<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-UltraCleaningTools-v5.1.0/cover.jpg" width="32%" alt="Ultra Cleaning Tools"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-UltraCleaningTools-v5.0.0">Ultra Cleaning Tools 5.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-UltraCleaningTools-v5.1.0">Ultra Cleaning Tools 5.1.0</a></p>
 
 ### Stray
 
