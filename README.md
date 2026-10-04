@@ -4,6 +4,7 @@
 <a href="https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods"><img src="https://img.shields.io/badge/Nexus_Mods-D98F40?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods"></a>
 <a href="https://www.curseforge.com/members/opaaaaaa/projects"><img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"></a>
 <a href="https://steamcommunity.com/profiles/76561198982807823/myworkshopfiles/"><img src="https://img.shields.io/badge/Steam_Workshop-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Workshop"></a>
+<a href="https://discord.gg/VcuRghJJMh"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a cover to open the mod page. The latest zip of each mod is linked below its game.
