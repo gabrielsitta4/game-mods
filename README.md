@@ -64,11 +64,11 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cuphead
 
 <p>
-<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-GiveMeEverything-v3.3.0/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
+<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-GiveMeEverything-v3.3.1/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/122"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-CupheadUltraWideBepInEx-v1.1.0/cover.jpg" width="32%" alt="Cuphead UltraWide"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/173"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-BepInExPack-v5.4.23.5/cover.jpg" width="32%" alt="BepInEx for Cuphead"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-GiveMeEverything-v3.3.0">Give Me Everything - Cuphead 3.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-GiveMeEverything-v3.3.1">Give Me Everything - Cuphead 3.3.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
 
 ### Cult of the Lamb
 
