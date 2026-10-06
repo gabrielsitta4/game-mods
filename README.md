@@ -90,9 +90,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Crypt Custodian
 
 <p>
-<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-GiveMeEverything-v2.1.0/cover.jpg" width="32%" alt="Give Me Everything - Crypt Custodian"></a>
+<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-GiveMeEverything-v2.2.0/cover.jpg" width="32%" alt="Give Me Everything - Crypt Custodian"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-GiveMeEverything-v2.1.0">Give Me Everything - Crypt Custodian 2.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-GiveMeEverything-v2.2.0">Give Me Everything - Crypt Custodian 2.2.0</a></p>
 
 ### Dispatch
 
