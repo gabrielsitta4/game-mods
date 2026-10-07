@@ -74,10 +74,10 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cult of the Lamb
 
 <p>
-<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v2.2.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
+<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v2.3.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
 <a href="https://www.nexusmods.com/cultofthelamb/mods/84"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1/cover.jpg" width="32%" alt="Cult of QoL PT-BR"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v2.2.0">Give Me Everything - Cult of the Lamb 2.2.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v2.3.0">Give Me Everything - Cult of the Lamb 2.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
 
 ### Nine Sols
 
