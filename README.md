@@ -111,9 +111,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Crime Scene Cleaner
 
 <p>
-<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-GiveMeEverything-v5.2.0/cover.jpg" width="32%" alt="Give Me Everything - Crime Scene Cleaner"></a>
+<a href="https://www.nexusmods.com/crimescenecleaner/mods/10"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CrimeSceneCleaner-GiveMeEverything-v5.3.0/cover.jpg" width="32%" alt="Give Me Everything - Crime Scene Cleaner"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-GiveMeEverything-v5.2.0">Give Me Everything - Crime Scene Cleaner 5.2.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CrimeSceneCleaner-GiveMeEverything-v5.3.0">Give Me Everything - Crime Scene Cleaner 5.3.0</a></p>
 
 ### Stray
 
