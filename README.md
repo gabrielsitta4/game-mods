@@ -44,9 +44,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hades
 
 <p>
-<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.1.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
+<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.2.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.1.0">Give Me Everything - Hades 2.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.2.0">Give Me Everything - Hades 2.2.0</a></p>
 
 ### Hollow Knight: Silksong
 
