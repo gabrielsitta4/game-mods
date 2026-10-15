@@ -139,9 +139,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Black Myth: Wukong
 
 <p>
-<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v1.5.0/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
+<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v1.6.0/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v1.5.0">Give Me Everything - Black Myth: Wukong 1.5.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v1.6.0">Give Me Everything - Black Myth: Wukong 1.6.0</a></p>
 
 ### The Witcher 3: Wild Hunt
 
