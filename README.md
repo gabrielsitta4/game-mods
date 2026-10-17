@@ -51,9 +51,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hollow Knight: Silksong
 
 <p>
-<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-GiveMeEverything-v4.7.1/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
+<a href="https://www.nexusmods.com/hollowknightsilksong/mods/1215"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Silksong-GiveMeEverything-v4.8.0/cover.jpg" width="32%" alt="Give Me Everything - Silksong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-GiveMeEverything-v4.7.1">Give Me Everything - Silksong 4.7.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Silksong-GiveMeEverything-v4.8.0">Give Me Everything - Silksong 4.8.0</a></p>
 
 ### Hollow Knight
 
@@ -139,9 +139,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Black Myth: Wukong
 
 <p>
-<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v1.7.1/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
+<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v1.8.0/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v1.7.1">Give Me Everything - Black Myth: Wukong 1.7.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v1.8.0">Give Me Everything - Black Myth: Wukong 1.8.0</a></p>
 
 ### The Witcher 3: Wild Hunt
 
