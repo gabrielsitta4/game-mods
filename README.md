@@ -150,6 +150,13 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 </p>
 <p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Witcher3-GiveMeEverything-v1.6.0">Give Me Everything - The Witcher 3 1.6.0</a></p>
 
+### Fallout 4
+
+<p>
+<a href="https://www.nexusmods.com/fallout4/mods/110262"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Fallout4-GiveMeEverything-v1.0.0/cover.jpg" width="32%" alt="Give Me Everything - Fallout 4"></a>
+</p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.0.0">Give Me Everything - Fallout 4 1.0.0</a></p>
+
 ## Support
 
 If you want to support what I make:
