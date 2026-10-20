@@ -97,9 +97,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Dispatch
 
 <p>
-<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-GiveMeEverything-v2.4.0/cover.jpg" width="32%" alt="Give Me Everything - Dispatch"></a>
+<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-GiveMeEverything-v2.4.1/cover.jpg" width="32%" alt="Give Me Everything - Dispatch"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-GiveMeEverything-v2.4.0">Give Me Everything - Dispatch 2.4.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-GiveMeEverything-v2.4.1">Give Me Everything - Dispatch 2.4.1</a></p>
 
 ### MOUSE: P.I. For Hire
 
