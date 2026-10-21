@@ -153,9 +153,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Fallout 4
 
 <p>
-<a href="https://www.nexusmods.com/fallout4/mods/110262"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Fallout4-GiveMeEverything-v1.1.0/cover.jpg" width="32%" alt="Give Me Everything - Fallout 4"></a>
+<a href="https://www.nexusmods.com/fallout4/mods/110262"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Fallout4-GiveMeEverything-v1.2.0/cover.jpg" width="32%" alt="Give Me Everything - Fallout 4"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.1.0">Give Me Everything - Fallout 4 1.1.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.2.0">Give Me Everything - Fallout 4 1.2.0</a></p>
 
 ## Support
 
