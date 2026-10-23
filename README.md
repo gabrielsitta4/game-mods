@@ -25,11 +25,11 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hytale
 
 <p>
-<a href="https://www.curseforge.com/hytale/mods/god-mode-menu"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hytale-GodMode-v1.5.0/cover.jpg" width="32%" alt="God Mode Menu"></a>
+<a href="https://www.curseforge.com/hytale/mods/god-mode-menu"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hytale-GodMode-v1.6.0/cover.jpg" width="32%" alt="God Mode Menu"></a>
 <a href="https://www.curseforge.com/hytale/mods/nodurability"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hytale-NoDurability-v1.3.0/cover.jpg" width="32%" alt="NoDurability"></a>
 <a href="https://www.curseforge.com/hytale/mods/void-chest"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hytale-VoidChest-v1.2.1/cover.jpg" width="32%" alt="Void Chest"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-GodMode-v1.5.0">God Mode Menu 1.5.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-NoDurability-v1.3.0">NoDurability 1.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-VoidChest-v1.2.1">Void Chest 1.2.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-GodMode-v1.6.0">God Mode Menu 1.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-NoDurability-v1.3.0">NoDurability 1.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hytale-VoidChest-v1.2.1">Void Chest 1.2.1</a></p>
 
 ### Brotato
 
