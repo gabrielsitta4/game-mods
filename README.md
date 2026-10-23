@@ -157,6 +157,13 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 </p>
 <p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.2.0">Give Me Everything - Fallout 4 1.2.0</a></p>
 
+### Onimusha: Way of the Sword
+
+<p>
+<a href="https://www.nexusmods.com/onimushawayofthesword/mods/363"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Onimusha-GiveMeEverything-v1.0.0/cover.jpg" width="32%" alt="Give Me Everything - Onimusha: Way of the Sword"></a>
+</p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Onimusha-GiveMeEverything-v1.0.0">Give Me Everything - Onimusha: Way of the Sword 1.0.0</a></p>
+
 ## Support
 
 If you want to support what I make:
