@@ -58,9 +58,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hollow Knight
 
 <p>
-<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-GiveMeEverything-v3.5.0/cover.jpg" width="32%" alt="Give Me Everything - Hollow Knight"></a>
+<a href="https://www.nexusmods.com/hollowknight/mods/193"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/HollowKnight-GiveMeEverything-v3.6.0/cover.jpg" width="32%" alt="Give Me Everything - Hollow Knight"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-GiveMeEverything-v3.5.0">Give Me Everything - Hollow Knight 3.5.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/HollowKnight-GiveMeEverything-v3.6.0">Give Me Everything - Hollow Knight 3.6.0</a></p>
 
 ### Cuphead
 
@@ -74,18 +74,18 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cult of the Lamb
 
 <p>
-<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v2.6.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
+<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v2.7.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
 <a href="https://www.nexusmods.com/cultofthelamb/mods/84"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1/cover.jpg" width="32%" alt="Cult of QoL PT-BR"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v2.6.0">Give Me Everything - Cult of the Lamb 2.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v2.7.0">Give Me Everything - Cult of the Lamb 2.7.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
 
 ### Nine Sols
 
 <p>
-<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-GiveMeEverything-v3.5.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
+<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-GiveMeEverything-v3.6.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
 <a href="https://www.nexusmods.com/ninesols/mods/17"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-BepInExPack-v1.2/cover.jpg" width="32%" alt="BepInEx pack for Nine Sols"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-GiveMeEverything-v3.5.0">Give Me Everything - Nine Sols 3.5.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-GiveMeEverything-v3.6.0">Give Me Everything - Nine Sols 3.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
 
 ### Crypt Custodian
 
