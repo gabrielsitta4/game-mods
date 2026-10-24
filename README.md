@@ -146,9 +146,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### The Witcher 3: Wild Hunt
 
 <p>
-<a href="https://www.nexusmods.com/witcher3/mods/14155"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Witcher3-GiveMeEverything-v2.0.0/cover.jpg" width="32%" alt="Give Me Everything - The Witcher 3"></a>
+<a href="https://www.nexusmods.com/witcher3/mods/14155"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Witcher3-GiveMeEverything-v2.1.0/cover.jpg" width="32%" alt="Give Me Everything - The Witcher 3"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Witcher3-GiveMeEverything-v2.0.0">Give Me Everything - The Witcher 3 2.0.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Witcher3-GiveMeEverything-v2.1.0">Give Me Everything - The Witcher 3 2.1.0</a></p>
 
 ### Fallout 4
 
