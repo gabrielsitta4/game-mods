@@ -12,15 +12,15 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cyberpunk 2077
 
 <p>
-<a href="https://www.nexusmods.com/cyberpunk2077/mods/32572"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-DroneCompanion-v7.2.0/cover.jpg" width="32%" alt="Drone Companion"></a>
-<a href="https://www.nexusmods.com/cyberpunk2077/mods/31460"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-GiveMeEverything-v8.1.0/cover.jpg" width="32%" alt="Give Me Everything - Cyberpunk 2077"></a>
+<a href="https://www.nexusmods.com/cyberpunk2077/mods/32572"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-DroneCompanion-v7.3.0/cover.jpg" width="32%" alt="Drone Companion"></a>
+<a href="https://www.nexusmods.com/cyberpunk2077/mods/31460"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-GiveMeEverything-v8.2.0/cover.jpg" width="32%" alt="Give Me Everything - Cyberpunk 2077"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31784"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-QuestGuide-v1.5.3/cover.jpg" width="32%" alt="QuestGuide"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31702"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-BestInSlot-v1.6.1/cover.jpg" width="32%" alt="BestInSlot"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31610"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-FindMyRide-v1.7.2/cover.jpg" width="32%" alt="FindMyRide"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31701"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-UnequipMods-v1.6.2/cover.jpg" width="32%" alt="UnequipMods"></a>
 <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/wquwq8"><img src="NightCityFullyLoaded.jpg" width="32%" alt="Night City, Fully Loaded"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-DroneCompanion-v7.2.0">Drone Companion 7.2.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-GiveMeEverything-v8.1.0">Give Me Everything - Cyberpunk 2077 8.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-QuestGuide-v1.5.3">QuestGuide 1.5.3</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-BestInSlot-v1.6.1">BestInSlot 1.6.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-FindMyRide-v1.7.2">FindMyRide 1.7.2</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-UnequipMods-v1.6.2">UnequipMods 1.6.2</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-DroneCompanion-v7.3.0">Drone Companion 7.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-GiveMeEverything-v8.2.0">Give Me Everything - Cyberpunk 2077 8.2.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-QuestGuide-v1.5.3">QuestGuide 1.5.3</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-BestInSlot-v1.6.1">BestInSlot 1.6.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-FindMyRide-v1.7.2">FindMyRide 1.7.2</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-UnequipMods-v1.6.2">UnequipMods 1.6.2</a></p>
 
 ### Hytale
 
@@ -82,10 +82,10 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Nine Sols
 
 <p>
-<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-GiveMeEverything-v3.6.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
+<a href="https://www.nexusmods.com/ninesols/mods/16"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-GiveMeEverything-v3.7.0/cover.jpg" width="32%" alt="Give Me Everything - Nine Sols"></a>
 <a href="https://www.nexusmods.com/ninesols/mods/17"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/NineSols-BepInExPack-v1.2/cover.jpg" width="32%" alt="BepInEx pack for Nine Sols"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-GiveMeEverything-v3.6.0">Give Me Everything - Nine Sols 3.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-GiveMeEverything-v3.7.0">Give Me Everything - Nine Sols 3.7.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/NineSols-BepInExPack-v1.2">BepInEx pack for Nine Sols 1.2</a></p>
 
 ### Crypt Custodian
 
