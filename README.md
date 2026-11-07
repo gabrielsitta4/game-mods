@@ -34,19 +34,19 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Brotato
 
 <p>
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3787782867"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-GiveMeEverything-v2.7.0/cover.jpg" width="24%" alt="GiveMeEverything"></a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3787782867"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-GiveMeEverything-v2.8.0/cover.jpg" width="24%" alt="GiveMeEverything"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3771061737"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-ShopWishlist-v1.1.1/cover.jpg" width="24%" alt="ShopWishlist"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3769887447"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-ModOptionsTabs-v1.1.1/cover.jpg" width="24%" alt="ModOptionsTabs"></a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3769878400"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Brotato-EnemiesEvolve-v1.1.1/cover.jpg" width="24%" alt="EnemiesEvolve"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-GiveMeEverything-v2.7.0">GiveMeEverything 2.7.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ShopWishlist-v1.1.1">ShopWishlist 1.1.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ModOptionsTabs-v1.1.1">ModOptionsTabs 1.1.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-EnemiesEvolve-v1.1.1">EnemiesEvolve 1.1.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-GiveMeEverything-v2.8.0">GiveMeEverything 2.8.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ShopWishlist-v1.1.1">ShopWishlist 1.1.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-ModOptionsTabs-v1.1.1">ModOptionsTabs 1.1.1</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Brotato-EnemiesEvolve-v1.1.1">EnemiesEvolve 1.1.1</a></p>
 
 ### Hades
 
 <p>
-<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.7.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
+<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.8.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.7.0">Give Me Everything - Hades 2.7.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.8.0">Give Me Everything - Hades 2.8.0</a></p>
 
 ### Hollow Knight: Silksong
 
@@ -65,11 +65,11 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cuphead
 
 <p>
-<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-GiveMeEverything-v3.9.0/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
+<a href="https://www.nexusmods.com/cuphead/mods/115"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-GiveMeEverything-v4.0.0/cover.jpg" width="32%" alt="Give Me Everything - Cuphead"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/122"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-CupheadUltraWideBepInEx-v1.1.0/cover.jpg" width="32%" alt="Cuphead UltraWide"></a>
 <a href="https://www.nexusmods.com/cuphead/mods/173"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cuphead-BepInExPack-v5.4.23.5/cover.jpg" width="32%" alt="BepInEx for Cuphead"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-GiveMeEverything-v3.9.0">Give Me Everything - Cuphead 3.9.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-GiveMeEverything-v4.0.0">Give Me Everything - Cuphead 4.0.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-CupheadUltraWideBepInEx-v1.1.0">Cuphead UltraWide 1.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cuphead-BepInExPack-v5.4.23.5">BepInEx for Cuphead 5.4.23.5</a></p>
 
 ### Cult of the Lamb
 
@@ -90,16 +90,16 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Crypt Custodian
 
 <p>
-<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-GiveMeEverything-v2.6.0/cover.jpg" width="32%" alt="Give Me Everything - Crypt Custodian"></a>
+<a href="https://www.nexusmods.com/cryptcustodian/mods/1"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CryptCustodian-GiveMeEverything-v2.7.0/cover.jpg" width="32%" alt="Give Me Everything - Crypt Custodian"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-GiveMeEverything-v2.6.0">Give Me Everything - Crypt Custodian 2.6.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CryptCustodian-GiveMeEverything-v2.7.0">Give Me Everything - Crypt Custodian 2.7.0</a></p>
 
 ### Dispatch
 
 <p>
-<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-GiveMeEverything-v2.5.0/cover.jpg" width="32%" alt="Give Me Everything - Dispatch"></a>
+<a href="https://www.nexusmods.com/dispatch/mods/37"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Dispatch-GiveMeEverything-v2.6.0/cover.jpg" width="32%" alt="Give Me Everything - Dispatch"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-GiveMeEverything-v2.5.0">Give Me Everything - Dispatch 2.5.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Dispatch-GiveMeEverything-v2.6.0">Give Me Everything - Dispatch 2.6.0</a></p>
 
 ### MOUSE: P.I. For Hire
 
@@ -139,30 +139,30 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Black Myth: Wukong
 
 <p>
-<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v2.4.0/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
+<a href="https://www.nexusmods.com/blackmythwukong/mods/1533"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/BlackMythWukong-GiveMeEverything-v2.5.0/cover.jpg" width="32%" alt="Give Me Everything - Black Myth: Wukong"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v2.4.0">Give Me Everything - Black Myth: Wukong 2.4.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/BlackMythWukong-GiveMeEverything-v2.5.0">Give Me Everything - Black Myth: Wukong 2.5.0</a></p>
 
 ### The Witcher 3: Wild Hunt
 
 <p>
-<a href="https://www.nexusmods.com/witcher3/mods/14155"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Witcher3-GiveMeEverything-v2.3.1/cover.jpg" width="32%" alt="Give Me Everything - The Witcher 3"></a>
+<a href="https://www.nexusmods.com/witcher3/mods/14155"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Witcher3-GiveMeEverything-v2.4.0/cover.jpg" width="32%" alt="Give Me Everything - The Witcher 3"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Witcher3-GiveMeEverything-v2.3.1">Give Me Everything - The Witcher 3 2.3.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Witcher3-GiveMeEverything-v2.4.0">Give Me Everything - The Witcher 3 2.4.0</a></p>
 
 ### Fallout 4
 
 <p>
-<a href="https://www.nexusmods.com/fallout4/mods/110262"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Fallout4-GiveMeEverything-v1.5.0/cover.jpg" width="32%" alt="Give Me Everything - Fallout 4"></a>
+<a href="https://www.nexusmods.com/fallout4/mods/110262"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Fallout4-GiveMeEverything-v1.6.0/cover.jpg" width="32%" alt="Give Me Everything - Fallout 4"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.5.0">Give Me Everything - Fallout 4 1.5.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.6.0">Give Me Everything - Fallout 4 1.6.0</a></p>
 
 ### Onimusha: Way of the Sword
 
 <p>
-<a href="https://www.nexusmods.com/onimushawayofthesword/mods/363"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Onimusha-GiveMeEverything-v1.2.0/cover.jpg" width="32%" alt="Give Me Everything - Onimusha: Way of the Sword"></a>
+<a href="https://www.nexusmods.com/onimushawayofthesword/mods/363"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Onimusha-GiveMeEverything-v1.3.0/cover.jpg" width="32%" alt="Give Me Everything - Onimusha: Way of the Sword"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Onimusha-GiveMeEverything-v1.2.0">Give Me Everything - Onimusha: Way of the Sword 1.2.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Onimusha-GiveMeEverything-v1.3.0">Give Me Everything - Onimusha: Way of the Sword 1.3.0</a></p>
 
 ## Support
 
