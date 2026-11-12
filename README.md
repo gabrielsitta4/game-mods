@@ -12,15 +12,15 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cyberpunk 2077
 
 <p>
-<a href="https://www.nexusmods.com/cyberpunk2077/mods/32572"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-DroneCompanion-v7.4.0/cover.jpg" width="32%" alt="Drone Companion"></a>
-<a href="https://www.nexusmods.com/cyberpunk2077/mods/31460"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-GiveMeEverything-v8.3.0/cover.jpg" width="32%" alt="Give Me Everything - Cyberpunk 2077"></a>
+<a href="https://www.nexusmods.com/cyberpunk2077/mods/32572"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-DroneCompanion-v7.5.0/cover.jpg" width="32%" alt="Drone Companion"></a>
+<a href="https://www.nexusmods.com/cyberpunk2077/mods/31460"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-GiveMeEverything-v8.4.0/cover.jpg" width="32%" alt="Give Me Everything - Cyberpunk 2077"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31784"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-QuestGuide-v1.6.0/cover.jpg" width="32%" alt="QuestGuide"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31702"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-BestInSlot-v1.7.0/cover.jpg" width="32%" alt="BestInSlot"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31610"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-FindMyRide-v1.8.0/cover.jpg" width="32%" alt="FindMyRide"></a>
 <a href="https://www.nexusmods.com/cyberpunk2077/mods/31701"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Cyberpunk-UnequipMods-v1.7.0/cover.jpg" width="32%" alt="UnequipMods"></a>
 <a href="https://www.nexusmods.com/games/cyberpunk2077/collections/wquwq8"><img src="NightCityFullyLoaded.jpg" width="32%" alt="Night City, Fully Loaded"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-DroneCompanion-v7.4.0">Drone Companion 7.4.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-GiveMeEverything-v8.3.0">Give Me Everything - Cyberpunk 2077 8.3.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-QuestGuide-v1.6.0">QuestGuide 1.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-BestInSlot-v1.7.0">BestInSlot 1.7.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-FindMyRide-v1.8.0">FindMyRide 1.8.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-UnequipMods-v1.7.0">UnequipMods 1.7.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-DroneCompanion-v7.5.0">Drone Companion 7.5.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-GiveMeEverything-v8.4.0">Give Me Everything - Cyberpunk 2077 8.4.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-QuestGuide-v1.6.0">QuestGuide 1.6.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-BestInSlot-v1.7.0">BestInSlot 1.7.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-FindMyRide-v1.8.0">FindMyRide 1.8.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Cyberpunk-UnequipMods-v1.7.0">UnequipMods 1.7.0</a></p>
 
 ### Hytale
 
@@ -44,9 +44,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Hades
 
 <p>
-<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.8.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
+<a href="https://www.nexusmods.com/hades/mods/240"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Hades-GiveMeEverything-v2.9.0/cover.jpg" width="32%" alt="Give Me Everything - Hades"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.8.0">Give Me Everything - Hades 2.8.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Hades-GiveMeEverything-v2.9.0">Give Me Everything - Hades 2.9.0</a></p>
 
 ### Hollow Knight: Silksong
 
@@ -74,10 +74,10 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Cult of the Lamb
 
 <p>
-<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v3.1.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
+<a href="https://www.nexusmods.com/cultofthelamb/mods/114"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-GiveMeEverything-v3.2.0/cover.jpg" width="32%" alt="Give Me Everything - Cult of the Lamb"></a>
 <a href="https://www.nexusmods.com/cultofthelamb/mods/84"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1/cover.jpg" width="32%" alt="Cult of QoL PT-BR"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v3.1.0">Give Me Everything - Cult of the Lamb 3.1.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-GiveMeEverything-v3.2.0">Give Me Everything - Cult of the Lamb 3.2.0</a> · <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/CultOfTheLamb-CultOfQoL_PTBR-v1.0.1">Cult of QoL PT-BR 1.0.1</a></p>
 
 ### Nine Sols
 
@@ -160,9 +160,9 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 ### Onimusha: Way of the Sword
 
 <p>
-<a href="https://www.nexusmods.com/onimushawayofthesword/mods/363"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Onimusha-GiveMeEverything-v1.4.0/cover.jpg" width="32%" alt="Give Me Everything - Onimusha: Way of the Sword"></a>
+<a href="https://www.nexusmods.com/onimushawayofthesword/mods/363"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Onimusha-GiveMeEverything-v1.5.0/cover.jpg" width="32%" alt="Give Me Everything - Onimusha: Way of the Sword"></a>
 </p>
-<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Onimusha-GiveMeEverything-v1.4.0">Give Me Everything - Onimusha: Way of the Sword 1.4.0</a></p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Onimusha-GiveMeEverything-v1.5.0">Give Me Everything - Onimusha: Way of the Sword 1.5.0</a></p>
 
 ## Support
 
