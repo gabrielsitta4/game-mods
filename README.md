@@ -157,6 +157,13 @@ Mods I made and published on Nexus Mods, CurseForge and Steam Workshop. Click a 
 </p>
 <p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Fallout4-GiveMeEverything-v1.7.0">Give Me Everything - Fallout 4 1.7.0</a></p>
 
+### The Elder Scrolls V: Skyrim
+
+<p>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/199842"><img src="https://github.com/gabrielsitta4/game-mods/releases/download/Skyrim-GiveMeEverything-v1.0.0/cover.jpg" width="32%" alt="Give Me Everything - Skyrim"></a>
+</p>
+<p>Download: <a href="https://github.com/gabrielsitta4/game-mods/releases/tag/Skyrim-GiveMeEverything-v1.0.0">Give Me Everything - Skyrim 1.0.0</a></p>
+
 ### Onimusha: Way of the Sword
 
 <p>
